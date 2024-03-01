@@ -32,7 +32,7 @@ const FeatureItem: FC<PropsWithChildren<{ title: string; Icon: IconType }>> = ({
         <Icon color="#1ed760" />
       </div>
       <div className="flex flex-col align-middle">
-        <h2 className="text-2xl font-bold leading-8">{title}</h2>
+        <h2 className="text-2xl font-bold leading-8">Vintage Media</h2>
         <p className="text-neutral-400">{children}</p>
       </div>
     </div>
