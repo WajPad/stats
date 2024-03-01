@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Statsfm',
-  title: 'Statsfm for Spotify',
+  site_name: 'Vintage Media',
+  title: 'Music Distribution',
   description: '',
   locale: 'en',
 };
